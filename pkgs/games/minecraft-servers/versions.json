@@ -1,8 +1,8 @@
 {
   "1.21": {
-    "sha1": "6e64dcabba3c01a7271b4fa6bd898483b794c59b",
-    "url": "https://piston-data.mojang.com/v1/objects/6e64dcabba3c01a7271b4fa6bd898483b794c59b/server.jar",
-    "version": "1.21.6",
+    "sha1": "466f10d722959bb81088f5a683f7ca9dc766e666",
+    "url": "https://piston-data.mojang.com/v1/objects/466f10d722959bb81088f5a683f7ca9dc766e666/server.jar",
+    "version": "1.21.7",
     "javaVersion": 21
   },
   "1.20": {
